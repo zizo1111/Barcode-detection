@@ -33,6 +33,6 @@ train/
 validation/
 
 # Checkpoints
-checkpoints/
+#checkpoints/
 
 src/
